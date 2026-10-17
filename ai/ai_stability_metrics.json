@@ -1,5 +1,5 @@
 {
-  "analysis": "Raw AI report stability across five included reports before cross-model union and author adjudication",
+  "analysis": "Descriptive report-level variation across five independently generated AI reports. Each report was scored separately against ground truth; findings were not merged across reports. Summary statistics are means and sample standard deviations across the five reports.",
   "standard_deviation": "sample",
   "runs": [
     {
